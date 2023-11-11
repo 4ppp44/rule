@@ -7,5 +7,4 @@ payload:
   - DOMAIN-SUFFIX,mask-t.apple-dns.net
   - DOMAIN-SUFFIX,mask-api.icloud.com
   - DOMAIN-SUFFIX,mask-api.fe.apple-dns.net
-  - DOMAIN-SUFFIX,tether.edge.apple:443
-  - DOMAIN-SUFFIX,gsa.apple.com
+  - DOMAIN-SUFFIX,tether.edge.apple
