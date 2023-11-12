@@ -6,4 +6,4 @@ payload:
   - DOMAIN-SUFFIX,mask-h2.icloud.com
   - DOMAIN-SUFFIX,mask-t.apple-dns.net
   - DOMAIN-SUFFIX,mask-api.icloud.com
-  - DOMAIN-SUFFIX,mask-api.fe.apple-dns.net
+  - DOMAIN-SUFFIX,fe.apple-dns.net
