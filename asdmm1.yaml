@@ -53,3 +53,5 @@ payload:
   - DOMAIN-KEYWORD,cake
   - DOMAIN-KEYWORD,hostloc
   - DOMAIN-SUFFIX,shuzijumin.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,oaistatic.com
