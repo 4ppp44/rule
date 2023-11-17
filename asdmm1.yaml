@@ -57,3 +57,6 @@ payload:
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,ddys.pro
   - DOMAIN-SUFFIX,ddys.mov
+  - DOMAIN-SUFFIX,cupronickel.goog
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,pki.goog
