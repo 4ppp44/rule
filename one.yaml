@@ -1,7 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,cupronickel.goog
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,pki.goog
   - '136.22.64.0/24'
   - '136.22.65.0/24'
   - '136.22.67.0/24'
