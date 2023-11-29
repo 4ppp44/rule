@@ -1,4 +1,4 @@
-payload:
+in payload:
   - DOMAIN-SUFFIX,usespeak.com
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,omiai-jp.com
@@ -63,3 +63,5 @@ payload:
   - DOMAIN-SUFFIX,avcdn.net
   - DOMAIN-SUFFIX,avast.com
   - DOMAIN-SUFFIX,prcdn.net
+  - DOMAIN-KEYWORD,goog
+  - DOMAIN-SUFFIX,gstatic.com
