@@ -64,4 +64,3 @@ in payload:
   - DOMAIN-SUFFIX,avast.com
   - DOMAIN-SUFFIX,prcdn.net
   - DOMAIN-KEYWORD,goog
-  - DOMAIN-SUFFIX,gstatic.com
