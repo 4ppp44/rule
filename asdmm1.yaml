@@ -1,4 +1,4 @@
-in payload:
+payload:
   - DOMAIN-SUFFIX,usespeak.com
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,omiai-jp.com
