@@ -58,8 +58,9 @@ payload:
   - DOMAIN-SUFFIX,ddys.pro
   - DOMAIN-SUFFIX,ddys.mov
   - DOMAIN-SUFFIX,cupronickel.goog
-  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-KEYWORD,googleapis
   - DOMAIN-SUFFIX,pki.goog
   - DOMAIN-SUFFIX,avcdn.net
   - DOMAIN-SUFFIX,avast.com
   - DOMAIN-SUFFIX,prcdn.net
+  - DOMAIN-KEYWORD,g-tun
